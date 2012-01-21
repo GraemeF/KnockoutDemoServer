@@ -5,7 +5,7 @@
     "author":"Graeme Foster <graemef@gmail.com>",
     "description":"a simple demo server",
     "scripts":{
-        "start":"node ./lib/demo-server --root=.. --delay=2000"
+        "start":"node ./lib/demo-server --root=.. --delay=800"
     },
     "main":"./lib/demo-server",
     "repository":{
